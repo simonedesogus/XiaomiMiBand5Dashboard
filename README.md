@@ -6,6 +6,8 @@ The data can be analyzed further to find out which RAW_KIND code corresponds to 
 The project was heavily inspired by the GitHub user arpanghosh8453:
 https://www.reddit.com/r/Python/comments/ms57g1/i_have_used_python_to_record_my_health_stats_in/
 
+![](Assets/GrafanaPreview.png)
+
 ## Setup
 
 First thing first, we need to pull the data from the MiBand5 to a database. This feature is not available from the official Mi Fit app, but luckily we can use the Gadgetbridge app from the FreeYourGadget project.
